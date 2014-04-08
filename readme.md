@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/pretty-bytes](http://github.com/sindresorhus/pretty-bytes). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-pretty-bytes`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # pretty-bytes [![Build Status](https://travis-ci.org/sindresorhus/pretty-bytes.svg?branch=master)](https://travis-ci.org/sindresorhus/pretty-bytes)
 
 > Convert bytes to a human readable string: `1337` → `1.34 kB`
